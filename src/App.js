@@ -36,7 +36,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <div className="header">Residential rental agreement</div>
+      <div className="header">PDF Online Form</div>
       <div className="webviewer" ref={viewer}></div>
     </div>
   );
